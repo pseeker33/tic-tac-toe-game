@@ -1,0 +1,9 @@
+CLIENT
+	npm create vite@latest
+	npm install canvas-confetti socket.io-client react-router-dom
+	npm install lucide-react
+	
+BACKEND
+	npm init -y
+	npm install express socket.io uuid
+	npm install --save-dev nodemon
