@@ -10,7 +10,6 @@ Read this in [Spanish](README-es.md) / Lee este archivo en [español](README-es.
 -->
 
 <br>
-<br>
 
 <p align="center">
   Check out the live demo of this project  
@@ -51,10 +50,10 @@ Before you start, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/pseeker33/tic-tac-toe-game.git
+   cd client
    ```
-
+   
 2. Install dependencies:
 
    ```bash
@@ -84,17 +83,8 @@ The project uses the following libraries:
 - **React Router DOM**: For routing between pages (e.g., game, home).
 - **Canvas Confetti**: For confetti effects when a player wins.
 - **Lucide React**: For vector icons.
-- **Socket.io-client**: For possible future multiplayer features (not yet implemented).
+- **Socket.io-client**: For future multiplayer features (not yet implemented).
 - **Vite**: For fast bundling and development.
-
-## Game Features
-
-
-
-
-## Screenshots
-
-![Game Screenshot](path/to/screenshot.png)
 
 ## License
 
