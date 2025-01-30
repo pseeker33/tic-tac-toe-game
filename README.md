@@ -5,9 +5,11 @@
     <img src="public/img/portrait.png"  height=400>
     
 </p>
-
+<!--
 Read this in [Spanish](README-es.md) / Lee este archivo en [español](README-es.md)  
-Check out the [Live Demo](https://your-vercel-deployment-url.vercel.app)insights found and final recomendations in [here](deliverables/findings-report.md)
+-->
+
+Check out the the live demo of thid [HERE](https://your-vercel-deployment-url.vercel.app)
 
 # 
 
