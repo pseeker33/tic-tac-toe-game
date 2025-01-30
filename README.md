@@ -9,7 +9,13 @@
 Read this in [Spanish](README-es.md) / Lee este archivo en [español](README-es.md)  
 -->
 
-Check out the the live demo of thid [HERE](https://your-vercel-deployment-url.vercel.app)
+<br>
+<br>
+
+<p align="center">
+  Check out the live demo of this project  
+  <a href="https://your-vercel-deployment-url.vercel.app">HERE</a>
+</p>
 
 # 
 
