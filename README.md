@@ -2,7 +2,7 @@
 # <h1 align=center> **`Tic Tac Toe Game`** </h1>
 
 <p align="center">
-    <img src="public/img/portrait.png"  height=400>
+    <img src="./client/public/img/portrait.png"  height=400>
     
 </p>
 <!--
