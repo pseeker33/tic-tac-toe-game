@@ -13,7 +13,7 @@ Read this in [Spanish](README-es.md) / Lee este archivo en [español](README-es.
 
 <p align="center">
   Check out the live demo of this project  
-  <a href="https://your-vercel-deployment-url.vercel.app">HERE</a>
+  <a href="https://tic-tac-toe-game-eight-gold.vercel.app">HERE</a>
 </p>
 
 # 
